@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Dev Garg/Kidney-Disease-Classification-Deep-Learning-Project
+Author: Dev Garg
+Author-email: garg.dev35@gmail.com
+Project-URL: Bug Tracker, https://github.com/Dev Garg/Kidney-Disease-Classification-Deep-Learning-Project/issues
+License-File: LICENSE
+
+# kidney-disease-classification-mlflow-DVC
